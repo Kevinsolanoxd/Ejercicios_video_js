@@ -23,3 +23,10 @@
 ![menu](menu.png)
 
 
+## Toggle
+
+### esto nos enseña como hacer unn "activador" por asi decirlo que hace que halla un boton con una cruz  donde al precionarla se desplega un texto y a cruz se combierte en una x donde si se preciona dasaparece  el texto y la x se vuelve a combertir un una cruz. Para poder lograr hacer esto se uso una variable que tenga la caracteriztica de container donde el texto se mete dentro de un container, con la funcion toogle hace que un off pase a ser un on por asi decirlo  asi podemos hacer que el texto aparezca o desaparesca segun como demos click
+
+
+
+![toggle](toggle.png)
