@@ -13,7 +13,7 @@
 ### Añadimos el css
 
 ![calculadora_css](calculadora_css.png)
-
+#
 ## Menu
 
 ### es un menu lateral con funcion de direccioanar a alguna pagina o alguna funcion o ventana 
@@ -22,11 +22,19 @@
 
 ![menu](menu.png)
 
-
+#
 ## Toggle
 
-### esto nos enseña como hacer unn "activador" por asi decirlo que hace que halla un boton con una cruz  donde al precionarla se desplega un texto y a cruz se combierte en una x donde si se preciona dasaparece  el texto y la x se vuelve a combertir un una cruz. Para poder lograr hacer esto se uso una variable que tenga la caracteriztica de container donde el texto se mete dentro de un container, con la funcion toogle hace que un off pase a ser un on por asi decirlo  asi podemos hacer que el texto aparezca o desaparesca segun como demos click
+### esto nos enseña como hacer unn "activador" por asi decirlo que hace que halla un boton con una cruz  donde al precionarla se desplega un texto y a cruz se combierte en una x donde si se preciona dasaparece  el texto y la x se vuelve a combertir un una cruz. Para poder lograr hacer esto se uso una variable que tenga la caracteriztica de container donde el texto se mete dentro de un container, con la funcion toogle hace que un off pase a ser un on por asi decirlo  asi podemos hacer que el texto aparezca o desaparesca segun como demos click despues usa el css como vimos en los anteriores videos donde hace la x y la crus y hace una trancicion usando lo anterior mensionado 
 
 
 
 ![toggle](toggle.png)
+
+#
+
+## Tema oscuro
+
+### Con el uso de css podemos crear un boton que pueda cambiar de color segun como se le de click en este caso al dar click el boton como la pantalla de torna de un color oscuro esto se da  gracias que por el uso de js porque podemos hacer que un codigo css se active y desactive con el uso de toggle y tambien con con el uso de las animaciones podemos hacer que tenga una trancicion del color blanco al negro con js se crean una variables con los toggles haciendo que cada tipo de toggle negro y blnaco cambien segun se de click es si esa es la funcion de este ejemplo simplemente es poner un boton que cuando se active todo cambie de color segun como querramos.
+
+![Tema_oscuro](tema_oscuro.png)
